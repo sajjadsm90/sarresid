@@ -1,0 +1,12 @@
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/app/build
+/.build-outputs
+.env
+release_output/*.aab
+release_output/*.apk
+debug.keystore*

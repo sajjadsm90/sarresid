@@ -1,0 +1,6 @@
+{
+  "name": "سررسید",
+  "description": "سامانه جامع مدیریت و پیگیری سررسید چک‌ها، اقساط و تسهیلات بانکی، یادآور هوشمند و گزارش‌های مالی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
